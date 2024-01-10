@@ -7,6 +7,7 @@
 * {
     margin: 0;
     padding: 0;
+
 }
 
 body {
@@ -168,6 +169,8 @@ section {
     justify-content: center;
     gap: 5rem;
     height: 80vh;
+    
+    
 }
 
 .section__pic-container {
@@ -235,28 +238,28 @@ section {
     border: rgb(53, 53, 53) 0.1rem solid;
 }
 
-.btn-color-1:hover, 
+ .btn-color-1:hover, 
 .btn-color-2:hover {
     cursor: pointer;
-}
+} 
 
-.btn-color-1, 
+/* .btn-color-1, 
 .btn-color-2:hover {
     background: rgb(53, 53, 53);
     color: white;
-}
+} */
 
-.btn-color-1:hover {
+/* .btn-color-1:hover {
     background: rgb(0, 0, 0);
-}
+} */
 
 .btn-color-2 {
     background: none;
 }
 
-.btn-color-2:hover {
+/* .btn-color-2:hover {
     background: rgb(255, 255, 255) 0.1rem solid;
-}
+} */
 
 
 .btn-container {
